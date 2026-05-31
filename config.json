@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperfpdate",
+        "uuid": 15595938,
+        "checksum": "cyavze"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
